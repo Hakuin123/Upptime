@@ -23,7 +23,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 白熊赛博生命体征监测中心
-  introTitle: "**白熊赛博生命体征监测中心**是白熊的服务状态监测站"
+  introTitle: "**白熊赛博生命体征监测中心** - 服务状态监测"
   introMessage: 当前监测站为国际监测站，站点数据仅代表从 GitHub 服务器发往对应测试站点的请求是否能够联通，中国大陆用户请以实际连接可用性为准。
   navbar:
     - title: 状态监测
