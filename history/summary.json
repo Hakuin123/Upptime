@@ -47,9 +47,9 @@
     "slug": "cloud-arctic",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1460,
     "timeDay": 1261,
@@ -57,7 +57,6 @@
     "timeMonth": 1591,
     "timeYear": 1460,
     "dailyMinutesDown": {
-      "2026-04-17": 4,
       "2026-04-02": 4
     }
   },
