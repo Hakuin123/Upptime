@@ -1,7 +1,7 @@
 url: $ASTRBOT_API_URL
-status: down
-code: 530
-responseTime: 83
-lastUpdated: 2026-04-21T08:05:46.216Z
+status: up
+code: 401
+responseTime: 449
+lastUpdated: 2026-04-21T10:20:45.013Z
 startTime: 2026-03-03T06:44:02.591Z
 generator: Upptime <https://github.com/upptime/upptime>
