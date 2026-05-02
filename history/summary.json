@@ -4,9 +4,9 @@
     "url": "https://www.hk256.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.hk256.top.ico",
     "slug": "pb-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 368,
     "timeMonth": 348,
     "timeYear": 392,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-02": 0
+    }
   },
   {
     "name": "阿莱（Astrbot 服务）",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "astrbot",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.61%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.23%",
     "time": 602,
     "timeDay": 381,
     "timeWeek": 376,
@@ -66,9 +68,9 @@
     "url": "https://twikoo.hk256.top",
     "icon": "https://icons.duckduckgo.com/ip3/twikoo.hk256.top.ico",
     "slug": "twikoo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -77,6 +79,8 @@
     "timeWeek": 600,
     "timeMonth": 531,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-02": 0
+    }
   }
 ]
