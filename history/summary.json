@@ -22,16 +22,16 @@
     "url": "$ASTRBOT_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "astrbot",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.52%",
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.49%",
     "time": 540,
-    "timeDay": 248,
-    "timeWeek": 353,
-    "timeMonth": 423,
+    "timeDay": 331,
+    "timeWeek": 369,
+    "timeMonth": 425,
     "timeYear": 540,
     "dailyMinutesDown": {
       "2026-03-06": 310,
@@ -40,7 +40,7 @@
       "2026-03-13": 47,
       "2026-04-21": 170,
       "2026-06-05": 30,
-      "2026-06-13": 0
+      "2026-06-13": 53
     }
   },
   {
